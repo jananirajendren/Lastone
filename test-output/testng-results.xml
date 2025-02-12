@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-12T21:26:44 IST" name="Default suite" finished-at="2025-02-12T21:27:32 IST" duration-ms="48287">
+    <groups>
+    </groups>
+    <test started-at="2025-02-12T21:26:44 IST" name="Default test" finished-at="2025-02-12T21:27:32 IST" duration-ms="48287">
+      <class name="hello.CreateCampaignTest">
+        <test-method is-config="true" signature="bs()[pri:0, instance:hello.CreateCampaignTest@7188af83]" started-at="2025-02-12T21:26:44 IST" name="bs" finished-at="2025-02-12T21:26:44 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bs -->
+        <test-method is-config="true" signature="bt()[pri:0, instance:hello.CreateCampaignTest@7188af83]" started-at="2025-02-12T21:26:44 IST" name="bt" finished-at="2025-02-12T21:26:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bt -->
+        <test-method is-config="true" signature="bc()[pri:0, instance:hello.CreateCampaignTest@7188af83]" started-at="2025-02-12T21:26:44 IST" name="bc" finished-at="2025-02-12T21:26:46 IST" duration-ms="2469" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bc -->
+        <test-method is-config="true" signature="bm()[pri:0, instance:hello.CreateCampaignTest@7188af83]" started-at="2025-02-12T21:26:46 IST" name="bm" finished-at="2025-02-12T21:26:52 IST" duration-ms="5741" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method signature="createCampaignTest()[pri:0, instance:hello.CreateCampaignTest@7188af83]" started-at="2025-02-12T21:26:52 IST" name="createCampaignTest" finished-at="2025-02-12T21:27:30 IST" duration-ms="38201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCampaignTest -->
+        <test-method is-config="true" signature="am()[pri:0, instance:hello.CreateCampaignTest@7188af83]" started-at="2025-02-12T21:27:30 IST" name="am" finished-at="2025-02-12T21:27:31 IST" duration-ms="1357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am -->
+        <test-method is-config="true" signature="ac()[pri:0, instance:hello.CreateCampaignTest@7188af83]" started-at="2025-02-12T21:27:31 IST" name="ac" finished-at="2025-02-12T21:27:32 IST" duration-ms="433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ac -->
+        <test-method is-config="true" signature="at()[pri:0, instance:hello.CreateCampaignTest@7188af83]" started-at="2025-02-12T21:27:32 IST" name="at" finished-at="2025-02-12T21:27:32 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- at -->
+        <test-method is-config="true" signature="as()[pri:0, instance:hello.CreateCampaignTest@7188af83]" started-at="2025-02-12T21:27:32 IST" name="as" finished-at="2025-02-12T21:27:32 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- as -->
+      </class> <!-- hello.CreateCampaignTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
